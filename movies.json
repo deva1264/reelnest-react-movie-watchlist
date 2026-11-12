@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "rating": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "When the city needs a hero, a symbol rises above the darkness."
+  },
+  {
+    "id": 2,
+    "title": "The Grand Budapest Hotel",
+    "genre": "Comedy",
+    "year": 2014,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHw7F2b4Hi6.jpg",
+    "description": "An unforgettable adventure inside a legendary European hotel."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "A journey beyond the stars to find a future for humanity."
+  },
+  {
+    "id": 4,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "rating": 9.3,
+    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "description": "Hope can survive even behind the tallest walls."
+  },
+  {
+    "id": 5,
+    "title": "La La Land",
+    "genre": "Romance",
+    "year": 2016,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0B5e.jpg",
+    "description": "Two dreamers find love while chasing the impossible."
+  },
+  {
+    "id": 6,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genre": "Action",
+    "year": 2018,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "description": "More than one hero can wear the mask."
+  },
+  {
+    "id": 7,
+    "title": "Knives Out",
+    "genre": "Thriller",
+    "year": 2019,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9xEZKp3Q4F7.jpg",
+    "description": "Every family has secrets. This one has a killer."
+  },
+  {
+    "id": 8,
+    "title": "Coco",
+    "genre": "Drama",
+    "year": 2017,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "description": "A colourful story about family, music and remembrance."
+  },
+  {
+    "id": 9,
+    "title": "The Martian",
+    "genre": "Sci-Fi",
+    "year": 2015,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/5aGhaIHYU6bH0SL5Oup5M3Fcj5.jpg",
+    "description": "One astronaut. One planet. A remarkable fight to survive."
+  },
+  {
+    "id": 10,
+    "title": "Paddington 2",
+    "genre": "Comedy",
+    "year": 2017,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3S5Vt7h4c8w8b2x.jpg",
+    "description": "A little kindness can make a big difference."
+  },
+  {
+    "id": 11,
+    "title": "The Notebook",
+    "genre": "Romance",
+    "year": 2004,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7DKEv7H4g5.jpg",
+    "description": "A timeless love story told across the years."
+  },
+  {
+    "id": 12,
+    "title": "Mad Max: Fury Road",
+    "genre": "Action",
+    "year": 2015,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/8tZYtuWeg.jpg",
+    "description": "A high-octane journey through a world on the edge."
+  }
+]
